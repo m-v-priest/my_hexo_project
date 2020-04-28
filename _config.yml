@@ -5,7 +5,7 @@
 # Site
 title: m_v_priest的博客
 subtitle: ''
-description: 'm_v_priest的github hexo博客'
+description: '眼不见,心不想; 心不想,事不成; 今或古, 有何异? 令势推人,时终过之!'
 keywords:
 author: m_v_priest
 language: en
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: replica # 默认是landscape
+theme: next # 默认是landscape
 
 
 # Deployment
