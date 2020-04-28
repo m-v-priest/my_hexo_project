@@ -8,6 +8,8 @@ categories: myDes
 
 ![](./guoChi_001.jpg)
 
+<!--more-->
+
 ***
 
 ![](./guoChi_002.jpg)

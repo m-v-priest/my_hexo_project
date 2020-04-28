@@ -8,6 +8,8 @@ categories: myDes
 
 ![](./bingHaiLake_001.jpg)
 
+<!--more-->
+
 ***
 
 ![](./bingHaiLake_002.jpg)

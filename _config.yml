@@ -102,4 +102,9 @@ deploy:
   type: git
   repo: git@github.com:m-v-priest/m-v-priest.github.io.git
 
-
+# hexo-generator-searchdb 的选项
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
