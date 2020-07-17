@@ -2,6 +2,11 @@
 
 hexo new  --path design_guYi/04_yuShanWan "guYi_江阴敔山湾"
 
+hexo g  //生成静态网站
+
+hexo server // 本机预览
+
+hexo clean && hexo deploy //上传静态网站
 
 ---
 
