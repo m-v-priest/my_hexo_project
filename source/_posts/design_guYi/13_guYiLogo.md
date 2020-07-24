@@ -2,7 +2,7 @@
 title: guYi_logo
 date: 2020-07-17 14:12:06
 tags: des_guYi
-categories: des_guYi
+categories: 02_des_guYi
 ---
 
 
@@ -66,5 +66,20 @@ categories: des_guYi
 ***
 
 ![](./logo_015.jpg)
+
+
+***
+
+![](./logo_016.jpg)
+
+
+***
+
+![](./logo_017.jpg)
+
+
+***
+
+![](./logo_018.jpg)
 
 

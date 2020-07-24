@@ -1,8 +1,8 @@
 ---
 title: guYi_唐贡古镇
 date: 2020-07-21 15:26:57
-tags:
-categories:
+tags: des_guYi
+categories: 02_des_guYi
 ---
 
 
